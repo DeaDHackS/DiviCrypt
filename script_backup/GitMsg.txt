@@ -1,0 +1,1 @@
+This file tells Github to not remove this directory, since it its empty.

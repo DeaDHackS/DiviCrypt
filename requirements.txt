@@ -1,0 +1,2 @@
+colorama
+py_compile
