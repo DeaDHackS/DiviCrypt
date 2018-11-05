@@ -1,6 +1,6 @@
 # DiviCrypt Description
 DiviCrypt is a python written script which has the ability of obfsucating(encrypting), encoding and compiling to exe .py scripts.
-It is very useless when envading AVs! So far DiviCrypt can encode to base64 but we are planning on making a Xor encoding option.
+It is very usefull when envading AVs! So far DiviCrypt can encode to base64 but we are planning on making a Xor encoding option.
 
 # Requirements!
 </p>
