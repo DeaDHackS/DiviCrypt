@@ -55,7 +55,7 @@ def ask_format():
     print color.YELLOW + "\n< Final File Informations >"
     print color.GREEN + "(+)" + color.END + " File => "+options.file
     print color.GREEN + "(+)" + color.END + " Mode => Encode - Base64"
-    print color.GREEN + "(+)" + color.END + " Output File => final_payloada/"+full_file
+    print color.GREEN + "(+)" + color.END + " Output File => final_payloads/"+full_file
 
 print color.YELLOW + "(i)" + color.END + " Encoding "+options.file+" into Base64 ..."
 data = open(options.file, "r").read()
