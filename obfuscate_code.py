@@ -55,7 +55,7 @@ def ask_format():
     print color.YELLOW + "\n< Final File Informations >"
     print color.GREEN + "(+)" + color.END + " File => "+options.file
     print color.GREEN + "(+)" + color.END + " Mode => Obfuscating"
-    print color.GREEN + "(+)" + color.END + " Output File => final_payloada/"+full_file
+    print color.GREEN + "(+)" + color.END + " Output File => final_payloads/"+full_file
 
 print color.YELLOW + "(i)" + color.END + " Preparing Full Obfuscating" 
 print color.GREEN + "(+)" + color.END + " Obfuscating "+options.file+" !..."   
